@@ -1,0 +1,18 @@
+SetuBid Question 2 — Screenshot Evidence
+
+These are the final screenshots supplied during the B(d)/B(e) measurements.
+
+1. B_e_candidate_generation_runtime_1.05s.png
+   - EXPLAIN ANALYZE candidate-generation query
+   - Total Time: 1.05 s
+
+2. B_e_hash_join_and_scans.png
+   - Hash join and sequential scans over the 16x8 LSH index
+
+3. B_e_portal_candidate_work.png
+   - Portal-level candidate-work distribution
+
+4. B_e_full_plan_detail.png
+   - Detailed EXPLAIN ANALYZE scan evidence
+
+Earlier screenshots from the conversation are not silently fabricated or recreated.

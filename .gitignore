@@ -1,0 +1,21 @@
+# Large raw dataset
+data/notices/
+
+# DuckDB databases
+*.duckdb
+*.duckdb.wal
+
+# Temporary / generated files
+*.tmp
+*.temp
+
+# Python cache, if any
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large archives
+*.zip
