@@ -1,5 +1,5 @@
 # Large raw dataset
-data/notices/
+**/data/notices/
 
 # DuckDB databases
 *.duckdb
